@@ -95,6 +95,7 @@ Make sure to **backup your existing configuration** before applying.
 ```bash
 git clone https://github.com/ROC003/hyper-dots.git ~/hyper-dots
 cp -r ~/hyper-dots/* ~/.config/hypr/
+```
 ---
 Developed with ❤️ by [ROC003](https://github.com/ROC003)
 EOF
